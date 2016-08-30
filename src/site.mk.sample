@@ -1,0 +1,7 @@
+###################################
+# REQUIRED SOFTWARES' PATHS
+###################################
+VIVADO_HLS_PATH	?=		/cad2/ece1769s/xilinx/Vivado_HLS/2014.4/bin
+VERILATOR_PATH	?=		/cad2/ece1769s/verilator/bin
+GTKWAVE_PATH	?=		/cad2/ece1769s/gtkwave/bin
+YOSYS_PATH		?=		/cad2/ece1769s/yosys/bin
